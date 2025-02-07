@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
+    background: black url(imagens/binario.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+
+main {
+    background-color: white;
+    max-width: 700px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1#t1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 70, 0);
+    text-align: center;
+    font-size: 4em;
+    margin: 0px;
+}
+
+h1#t2 {
+    background-color: #0dad0dbe;
+    text-align: center;
+    margin: 2px;
+    border-radius: 10px;
+}
+
+p {
+    text-indent: 20px;
+}
