@@ -16,11 +16,10 @@ main {
     
 }
 
-main img {
-    display: inline-flex;
-    margin: auto;
-    text-align: center;
-    width: 100%;
+img {
+    display: flex; 
+    justify-content: center;
+    width: 70%;
 }
 
 h1#t1 {
