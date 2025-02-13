@@ -16,6 +16,13 @@ main {
     
 }
 
+main img {
+    display: inline-flex;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
 h1#t1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(0, 70, 0);
