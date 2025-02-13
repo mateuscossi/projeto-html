@@ -5,6 +5,7 @@ body {
     height: 100vh;
     background: black url(imagens/binario.jpg) center center no-repeat fixed;
     background-size: cover;
+    text-align: justify;
 }
 
 main {
