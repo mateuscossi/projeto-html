@@ -17,6 +17,21 @@ main {
     
 }
 
+a:hover {
+    background-color: rgba(0, 128, 0, 0.582);
+    color: white;
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+a {
+    color:rgba(0, 128, 0, 0.582);
+}
+
+a::after {
+    content: '\00A0\1F517';
+}
+
 img {
     display: flex; 
     justify-content: center;
